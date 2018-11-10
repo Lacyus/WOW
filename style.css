@@ -1,0 +1,38 @@
+
+h1 {
+    text-align: center;
+    background-color: black;
+    color: antiquewhite;
+
+}
+
+h2 {
+    padding-left: 15px;
+}
+
+img {
+    display: block;
+    float: left;
+    padding-left: 20px;
+    padding-right: 40px;
+}
+
+a {
+color: rgb(189, 12, 12);
+}
+
+#bio{
+    width: 70%;
+    float: left;
+}
+
+#contact{
+    display: block;
+    float: right;
+    width: auto;
+    padding-right: 20px;
+}
+
+
+
+
